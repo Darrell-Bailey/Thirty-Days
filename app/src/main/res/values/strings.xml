@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Thirty Days</string>
     <string name="tip_one">Make sure to stay hydrated throughout the day.</string>
+    <string name="tip_two">Take some time to spend outdoors.</string>
+    <string name="tip_three">Spend 15 minutes reading a book.</string>
+    <string name="tip_four">Eat well balanced nutritious meals.</string>
+    <string name="tip_five">Hang out with friends, it will make you smile.</string>
+    <string name="tip_six">Explore your creative side in whatever facet.</string>
+    <string name="tip_seven">Caring for ourselves helps us to be better able to care for others.</string>
+    <string name="tip_eight">Think of a time someone did something nice for you.</string>
+    <string name="tip_nine">Spend some time stretching.</string>
+    <string name="tip_ten">Think about positive things happening in your life.</string>
+    <string name="tip_eleven">Do some simple breathing techniques to relieve stress.</string>
 </resources>
