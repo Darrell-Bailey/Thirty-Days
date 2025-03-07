@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Thirty Days</string>
+    <string name="tip_one">Make sure to stay hydrated throughout the day.</string>
 </resources>
